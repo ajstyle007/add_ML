@@ -7,7 +7,7 @@ This project demonstrates how to use linear regression to predict the sum of two
 
 ### 📋 Overview
 - The idea behind this project is simple: given two input numbers, we aim to predict their sum using a linear regression model. This involves several steps, including data preparation, model training, evaluation, and creating a web application for user interaction.
-- Tech Used: Python, Streamlit, and popular libraries. 🐍
+- Tech Used: Python 🐍, Streamlit, and popular libraries. 
 
 ### 📊 Data Preparation
 - Load the dataset containing pairs of numbers and their sums. 📂
