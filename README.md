@@ -30,7 +30,7 @@ This project demonstrates how to use linear regression to predict the sum of two
 ### 🌐 Building the Web App
 Live Web App Link: [Add_Linear_Regression](https://musk12-add-ml.hf.space)
 - Create a simple web application with Streamlit where users can input two numbers. 🖥️
-- Get the predicted sum as output. 
+- Get the predicted sum as output. 📲
 
 ### ☁️ Deployment
 - Deploy the model on Hugging Face Cloud to make it accessible online. 🌍
