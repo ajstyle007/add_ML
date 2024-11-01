@@ -1,5 +1,5 @@
 # 🤖 Predicting the Sum of Two Numbers with Linear Regression
-Live Web App Link: [Add_Linear_Regression](https://musk12-add-ml.hf.space)
+- Live Web App Link: [Add_Linear_Regression](https://musk12-add-ml.hf.space)
 
 This project demonstrates how to use linear regression to predict the sum of two numbers. It includes data preparation, model training, evaluation, and deployment using Streamlit.
 
